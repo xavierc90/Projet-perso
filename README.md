@@ -22,11 +22,4 @@ No prerequisites for the moment
 
 ## Setup
 
-<details>
-  <summary>Cliquez pour afficher la commande npm install</summary>
-
-\`\`\`bash
 @ npm install
-\`\`\`
-
-</details>
