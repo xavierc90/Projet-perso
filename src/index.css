@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.1) 90%), url('/assets/img/bg-1920.jpg') center center / cover no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+/* Polices d'écriture du restaurant */
+.seaweed-text {
+    font-family: 'Seaweed Script', cursive;
+}
+
+.beabas-text {
+    font-family: 'Be Bas Neue', sans-serif;
+}
+
+.sticky {
+    width: 100%;
+    position: fixed;
+}

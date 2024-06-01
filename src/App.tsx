@@ -1,7 +1,11 @@
+import React from 'react';
+import Navbar from './Application/components/Navbar'; // Ajustez le chemin si nécessaire
+import Header from './Application/Header';
+
 export const App = () => {
-  return(
-    <>
-      <h1>App</h1>
-    </>
-  )
-}
+  return (
+<Header />
+  );
+};
+
+export default App;
