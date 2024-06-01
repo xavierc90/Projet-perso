@@ -22,4 +22,4 @@ No prerequisites for the moment
 
 ## Setup
 
-@ npm install
+npm install
