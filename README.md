@@ -5,7 +5,7 @@
 ## Description
 
 Oresto is a sleek modern web application designed for managing bookings and users in restaurants.  
-Experience simplicity with my app, featuring a website widget and a comprehensive React interface for seamless booking and user management.
+Experience simplicity with my app, featuring a website widget and a comprehensive React interface for management.
 
 ### Technologies used
 
