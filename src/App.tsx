@@ -1,10 +1,14 @@
-import React from 'react';
-import Navbar from './Application/components/Navbar'; // Ajustez le chemin si nécessaire
 import Header from './Application/Header';
+import Menu from './Application/Menu';
+import Contact from './Application/Contact';
 
 export const App = () => {
   return (
+    <div>
 <Header />
+<Menu />
+<Contact />
+</div>
   );
 };
 
